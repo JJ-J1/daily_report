@@ -8,7 +8,6 @@
 <c:set var="commIdx" value="${ForwardConst.CMD_INDEX.getValue()}" />
 <c:set var="commEdit" value="${ForwardConst.CMD_EDIT.getValue()}" />
 
-
 <c:import url="/WEB-INF/views/layout/app.jsp">
     <c:param name="content">
 
